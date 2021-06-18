@@ -23,7 +23,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'railties', '>= 3.2.6', '< 7'
   s.add_runtime_dependency 'rmagick', '>= 2.13.4'
   s.add_runtime_dependency 'thor', '>= 0.19'
-  s.add_runtime_dependency 'carrierwave', '>= 0.10.0'
+  s.add_runtime_dependency 'carrierwave', '~> 2.0'
   s.add_runtime_dependency 'kaminari', '>= 0.16.1'
   s.add_runtime_dependency 'pygments.rb', '>= 0.6.0'
   s.add_runtime_dependency 'redcarpet', '>= 3.3.3'
